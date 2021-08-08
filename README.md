@@ -3,4 +3,4 @@
 ---
 Kodluyoruz & Patika.dev
 
-![Proje](images/gitProje.PNG)
+![Proje](gitProje.PNG)
