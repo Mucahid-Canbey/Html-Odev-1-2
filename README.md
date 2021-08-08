@@ -1,2 +1,6 @@
-# KodluyoruzOdev1
-İlk Wep Sayfası
+# İlk Wep Sayfası
+
+---
+Kodluyoruz & Patika.dev
+
+![Proje](images/gitProje.png)
