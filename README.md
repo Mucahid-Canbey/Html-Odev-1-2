@@ -1,7 +1,8 @@
 # İlk Wep Sayfası
 
 
-Kodluyoruz & Patika.dev...
+##Kodluyoruz & Patika.dev
+---
 
 
 ![Proje](gitProje.PNG)
