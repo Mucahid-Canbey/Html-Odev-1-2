@@ -1,7 +1,7 @@
 # İlk Wep Sayfası
 
 
-# # Kodluyoruz & Patika.dev
+## Kodluyoruz & Patika.dev
 
 ---
 
