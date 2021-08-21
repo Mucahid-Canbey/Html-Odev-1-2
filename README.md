@@ -1,7 +1,7 @@
 # İlk Wep Sayfası
 
 
-## Kodluyoruz & Patika.dev
+## ![Image](https://r.resimlink.com/QvqbJzUg.png)
 
 ---
 
